@@ -1,1 +1,1 @@
-# Ports and Adapters architecture showcase AKA hexagonal architecture
+# Ports and Adapters architecture showcase AKA Hexagonal architecture
